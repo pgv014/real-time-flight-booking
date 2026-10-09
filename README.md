@@ -20,7 +20,7 @@ A modern real-time flight booking platform built using Next.js, Supabase, and Ta
 - React
 - Supabase
 - Tailwind CSS
-- TypeScript
+- TypeScript.
 
 ## Setup Instructions
 
